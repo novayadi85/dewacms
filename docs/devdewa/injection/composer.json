@@ -1,0 +1,18 @@
+{
+    "name": "devdewa/injection",
+    "description": "Dev version of Dewa CMS tools",
+    "type": "[]",
+    "authors": [
+        {
+            "name": "Novayadi Komang",
+            "email": "novayadi85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-0": {
+            "Injection": "src/"
+        }
+    }
+}
